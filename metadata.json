@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Golpea a Omar 2",
+  "description": "Videojuego web estilo Kick the Buddy con físicas ragdoll 2D interactivas, arsenal de armas, efectos y ranking en Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
